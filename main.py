@@ -19,7 +19,7 @@ import streamlit as st
     ##여기서 작업하세용##
 
 #ui
-hide_bar_ui() # 이거는 위에 창 숨기는 전체 영역 변수
+hide_bar_ui() # 이거는 위에 창 숨기는 전체 영역 함수
 
 #page 시작
 if "page" not in st.session_state:
