@@ -1,0 +1,15 @@
+gif 사진 방식으로 가져와서 뒷배경을 대체함
+
+
+다른 배경화면으로 바꿀 시 
+
+조건부 css 삽입을 해서 함
+
+
+초기
+https://media1.giphy.com/media/v1.Y2lkPTc5MGI3NjExbXJqNTJibWh3bmtncHdyN2VwczN0azlzaWt0NGVyYnh6c2ozd3ByMyZlcD12MV9pbnRlcm5hbF9naWZfYnlfaWQmY3Q9Zw/l3vRnoppYtfEbemBO/giphy.gif
+
+-------------------- 용준이파트 ------------------------
+
+
+tset는 테스트용(백업용)
